@@ -1,5 +1,5 @@
 # Interview Questions
-Frequently asked important interview questions. Answers has not been provided interntionally so that candidate should deeply learn about each topics involved in the question.
+Frequently asked important interview questions for a full stack developer. Answers has not been provided intentionally so that candidate should deeply learn about each topics involved in the question.
 
 - [OOPS](OOPS.md)
 - [C# & .Net](CSharpDotNet.md)
