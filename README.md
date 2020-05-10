@@ -7,7 +7,7 @@ Frequently asked important interview questions. Answers has not been provided in
 4. [Entity Framework & LINQ](EntityFrameworkLinq.md)
 5. [Miscellaneous (WebAPI, WebApps, DevOps)](DotNetMiscellaneous.md)
 
-# Best practices of Software Engineer
+# Best practices for Software Engineering
 - [Commertial Software Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook)
 
 # Contribute
