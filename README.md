@@ -1,11 +1,11 @@
 # Interview Questions
 Frequently asked important interview questions. Answers has not been provided interntionally so that candidate should deeply learn about each topics involved in the question.
 
-1. [OOPS](OOPS.md)
-2. [C# & .Net](CSharpDotNet.md)
-3. [SQL](SQL.md)
-4. [Entity Framework & LINQ](EntityFrameworkLinq.md)
-5. [Miscellaneous (WebAPI, WebApps, DevOps)](DotNetMiscellaneous.md)
+- [OOPS](OOPS.md)
+- [C# & .Net](CSharpDotNet.md)
+- [SQL](SQL.md)
+- [Entity Framework & LINQ](EntityFrameworkLinq.md)
+- [Miscellaneous (WebAPI, WebApps, DevOps)](DotNetMiscellaneous.md)
 
 # Best practices for Software Engineering
 - [Commertial Software Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook)
