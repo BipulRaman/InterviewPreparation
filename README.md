@@ -3,8 +3,9 @@ Frequently asked important interview questions. Answers has not been provided in
 
 1. [OOPS](OOPS.md)
 2. [C# & .Net](CSharpDotNet.md)
-3. [Entity Framework & LINQ](EntityFrameworkLinq.md)
-4. [Miscellaneous (WebAPI, WebApps, DevOps)](DotNetMiscellaneous.md)
+3. [SQL](SQL.md)
+4. [Entity Framework & LINQ](EntityFrameworkLinq.md)
+5. [Miscellaneous (WebAPI, WebApps, DevOps)](DotNetMiscellaneous.md)
 
 # Contribute
 The source files can also be used for references. Contribution can be made through folk and pull request. Feel free to star this repo for learning as well.
