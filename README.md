@@ -13,4 +13,4 @@ The source files can also be used for references. Contribution can be made throu
 Many questions has been taken from @Solid-Programmer's repository.
 
 # License
-All files within this repo are released under the [MIT (OSI) License]( https://en.wikipedia.org/wiki/MIT_License) as per the [LICENSE file](License) stored in the root of this repo.
+All files within this repo are released under the [MIT (OSI) License]( https://en.wikipedia.org/wiki/MIT_License) as per the [LICENSE file](.\License) stored in the root of this repo.
