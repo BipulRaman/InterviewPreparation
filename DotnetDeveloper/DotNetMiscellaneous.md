@@ -1,3 +1,5 @@
+### .Net Miscellaneous Questions
+
 1. What is a REST API? What is the difference between REST and SOAP?  
 2. What protocols are widely used when creating a Web API or Web Service? 
 3. What is the difference between PUT and POST methods? 
