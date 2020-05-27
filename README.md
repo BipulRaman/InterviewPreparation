@@ -3,11 +3,11 @@
 ### Dotnet Developer
 Frequently asked important interview questions for a .Net developer. Answers has not been provided intentionally so that candidate should deeply learn about each topics involved in the question.
 
-- [OOPS](OOPS.md)
-- [C# & .Net](CSharpDotNet.md)
-- [SQL](SQL.md)
-- [Entity Framework & LINQ](EntityFrameworkLinq.md)
-- [Miscellaneous (WebAPI, WebApps, DevOps)](DotNetMiscellaneous.md)
+- [OOPS](DotnetDeveloper/OOPS.md)
+- [C# & .Net](DotnetDeveloper/CSharpDotNet.md)
+- [SQL](DotnetDeveloper/SQL.md)
+- [Entity Framework & LINQ](DotnetDeveloper/EntityFrameworkLinq.md)
+- [Miscellaneous (WebAPI, WebApps, DevOps)](DotnetDeveloper/DotNetMiscellaneous.md)
 
 ## Best practices for Software Engineering
 - [Commercial Software Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook)
