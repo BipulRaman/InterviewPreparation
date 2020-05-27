@@ -1,4 +1,4 @@
-### Entity Framework Questions
+### Entity Framework and LINQ Questions
 
 1.	What is Entity Framework?How is it different from ADO.NET?
 2.	What are advantages and disadvantages of using Entity Framework?
