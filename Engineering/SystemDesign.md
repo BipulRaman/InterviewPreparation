@@ -135,20 +135,32 @@ Credits: @vasanthk
   * Deploy Process
   * Continuous Integration (Travis CI, Jenkins)
 
-**Links**
+## Links
 
-[How to rock a systems design interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
+- [How to rock a systems design interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 
-[System Design Interviewing](http://www.hiredintech.com/system-design/)
+- [System Design Interviewing](http://www.hiredintech.com/system-design/)
 
-[Scalability for Dummies](http://www.lecloud.net/tagged/scalability)
+- [Scalability for Dummies](http://www.lecloud.net/tagged/scalability)
 
-[Introduction to Architecting Systems for Scale](http://lethain.com/introduction-to-architecting-systems-for-scale/)
+- [Introduction to Architecting Systems for Scale](http://lethain.com/introduction-to-architecting-systems-for-scale/)
 
-[Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
+- [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
 
-[Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
+- [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 
-[What is the best way to design a web site to be highly scalable?](http://programmers.stackexchange.com/a/108679/62739)
+- [What is the best way to design a web site to be highly scalable?](http://programmers.stackexchange.com/a/108679/62739)
 
-[How web works?](https://github.com/vasanthk/how-web-works)
+- [How web works?](https://github.com/vasanthk/how-web-works)
+
+## Sample Questions
+
+- [System Design: How to design Twitter? ](https://www.youtube.com/watch?v=KmAyPUv9gOY)
+
+- [System Design: Uber Lyft ride sharing services](https://www.youtube.com/watch?v=J3DY3Te3A_A)
+
+- [System Design: Messenger service like Whatsapp or WeChat](https://www.youtube.com/watch?v=5m0L0k8ZtEs)
+
+- [Scalibility: Building dynamic websites](https://www.youtube.com/watch?v=-W9F__D3oY4&t=7s)
+
+- [System Design : Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4&t=205s)
