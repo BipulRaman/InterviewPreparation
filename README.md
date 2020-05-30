@@ -5,6 +5,7 @@ Core concepts Cheatsheet and important questions for an Engineering role in a pr
 
 - [System Design](Engineering/SystemDesign.md)
 - [Big-O Cheatsheet](https://www.bigocheatsheet.com)
+- [CS Fundamentals Checklist](https://github.com/jwasham/coding-interview-university/blob/master/README.md)
 
 ### Dotnet Developer Role
 Frequently asked important interview questions for a .Net developer. Answers has not been provided intentionally so that candidate should deeply learn about each topics involved in the question.
