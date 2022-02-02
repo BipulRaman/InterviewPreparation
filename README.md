@@ -21,7 +21,8 @@ Frequently asked important interview questions for a .Net developer. Answers has
 - [SQL](DotnetDeveloper/SQL.md)
 - [Entity Framework & LINQ](DotnetDeveloper/EntityFrameworkLinq.md)
 - [Miscellaneous (WebAPI, WebApps, DevOps)](DotnetDeveloper/DotNetMiscellaneous.md)
-- [Dotnet Design Patterns)](https://www.dofactory.com/net/design-patterns)
+- [Dotnet Design Patterns](https://www.dofactory.com/net/design-patterns)
+- [SOLID Principles in C#](https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp)
 
 ## Contribute
 The source files can also be used for references. Contribution can be made through folk and pull request. Feel free to star this repo for learning as well.
