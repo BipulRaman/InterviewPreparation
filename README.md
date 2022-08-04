@@ -9,6 +9,7 @@ Core concepts Cheatsheet and important questions for an Engineering role in a pr
 - [DataStructure Algorithm Practice](https://leetcode.com)
 - [Software Architecture Pattern](https://www.geeksforgeeks.org/types-of-software-architecture-patterns)
 - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns)
+- [Blind 75 LeetCode Questions](./Blind_75_LeetCode_Questions.md)
 
 ## Best practices for Software Engineering
 - [Commercial Software Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook)
