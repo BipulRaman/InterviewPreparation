@@ -1,37 +1,49 @@
-## Interview Questions
+# Interview Preparation
 
-### Software Engineering Core Concepts
-Core concepts Cheatsheet and important questions for an Engineering role in a product development team.
+## Introduction
 
-- [System Design](Engineering/SystemDesign.md)
-- [Big-O CheatSheet](https://www.bigocheatsheet.com)
-- [CS Fundamentals Checklist](https://github.com/jwasham/coding-interview-university/blob/master/README.md)
-- [DataStructure Algorithm Practice](https://leetcode.com)
-- [Software Architecture Pattern](https://www.geeksforgeeks.org/types-of-software-architecture-patterns)
-- [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns)
-- [Blind 75 LeetCode Questions](Engineering/Blind_75_LeetCode_Questions.md)
+Generally Interviews are conducted to assess the expertise in Engineering Fundamentals and the Skill specific area such as .Net, Java, ReactJs, AngularJs etc. In this set of documentation, I have focused on Engineering Fundamentals and .Net Developer related skills.
 
-## Best practices for Software Engineering
-- [Commercial Software Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook)
+### 1. Software Engineering Fundamentals
 
-### Dotnet Developer Role
+Core concepts, Cheat-Sheet and important questions for Software Engineering fundamentals majorly focused at top product based MNCs.
+
+1. [System Design](Engineering/SystemDesign.md)
+2. [Big-O CheatSheet](https://www.bigocheatsheet.com)
+3. [CS Fundamentals Checklist](https://github.com/jwasham/coding-interview-university/blob/master/README.md)
+4. System Design
+    a. [Software Architecture Pattern](https://www.geeksforgeeks.org/types-of-software-architecture-patterns)
+    b. [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns)
+    c. [System Design - The Big Archive](./Engineering/Files/System_Design_The_Big_Archive.pdf)
+5. Problem Solving
+    a. [Lecture Notes from University of Birmingham](./Engineering/Files/Lecture_Notes_DSA.pdf)
+    b. [DataStructure Algorithm Practice](https://leetcode.com)
+    c. [LeetCode 50 Common Interview Questions](./Engineering/Files/Leetcode_Interview_Questions_Handbook.pdf)
+    d. [Blind 75 LeetCode Questions](Engineering/Blind_75_LeetCode_Questions.md)
+6. Best Practices
+    a. [Commercial Software Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook)
+
+### 2. Dotnet Developer Role
+
 Frequently asked important interview questions for a .Net developer. Answers has not been provided intentionally so that candidate should deeply learn about each topics involved in the question.
 
-- [OOPS](DotnetDeveloper/OOPS.md)
-- [C# & .Net](DotnetDeveloper/CSharpDotNet.md)
-- [SQL](DotnetDeveloper/SQL.md)
-- [Entity Framework & LINQ](DotnetDeveloper/EntityFrameworkLinq.md)
-- [Miscellaneous (WebAPI, WebApps, DevOps)](DotnetDeveloper/DotNetMiscellaneous.md)
-- [Dotnet Design Patterns](https://www.dofactory.com/net/design-patterns)
-- [SOLID Principles in C#](https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp)
+1. [OOPS](DotnetDeveloper/OOPS.md)
+2. [C# & .Net](DotnetDeveloper/CSharpDotNet.md)
+3. [SQL](DotnetDeveloper/SQL.md)
+4. [Entity Framework & LINQ](DotnetDeveloper/EntityFrameworkLinq.md)
+5. [Miscellaneous (WebAPI, WebApps, DevOps)](DotnetDeveloper/DotNetMiscellaneous.md)
+6. [Dotnet Design Patterns](https://www.dofactory.com/net/design-patterns)
+7. [SOLID Principles in C#](https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp)
 
 ## Contribute
+
 The source files can also be used for references. Contribution can be made through folk and pull request. Feel free to star this repo for learning as well.
 
 **Credits:**
 Many questions has been taken from @Solid-Programmer's repository.
 
 ## License
+
 All files within this repo are released under the [MIT (OSI) License]( https://en.wikipedia.org/wiki/MIT_License) as per the [LICENSE file](https://github.com/BipulRaman/InterviewQuestions/blob/master/LICENSE) stored in the root of this repo.
 
 --
