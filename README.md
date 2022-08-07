@@ -4,7 +4,7 @@
 
 Generally Interviews are conducted to assess the expertise in Engineering Fundamentals and the Skill specific area such as .Net, Java, ReactJs, AngularJs etc. In this set of documentation, I have focused on Engineering Fundamentals and .Net Developer related skills.
 
-### 1. Software Engineering Fundamentals
+### A: Software Engineering Fundamentals
 
 Core concepts, Cheat-Sheet and important questions for Software Engineering fundamentals majorly focused at top product based MNCs.
 
@@ -23,7 +23,7 @@ Core concepts, Cheat-Sheet and important questions for Software Engineering fund
 6. Best Practices
     1. [Commercial Software Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook)
 
-### 2. Dotnet Developer Role
+### B: Dotnet Developer Role
 
 Frequently asked important interview questions for a .Net developer. Answers has not been provided intentionally so that candidate should deeply learn about each topics involved in the question.
 
