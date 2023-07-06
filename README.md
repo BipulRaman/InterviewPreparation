@@ -22,7 +22,8 @@ Core concepts, Cheat-Sheet and important questions for Software Engineering fund
     4. [System Design - The Big Archive](./Engineering/Files/System_Design_The_Big_Archive.pdf)
 5. Best Practices
     1. [Commercial Software Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook)
-
+6. Case Studies
+    1. [Engineering Blogs](./Engineering/Blogs.md) 
 ### [B] Dotnet Developer Role
 
 Frequently asked important interview questions for a .Net developer. Answers has not been provided intentionally so that candidate should deeply learn about each topics involved in the question.
